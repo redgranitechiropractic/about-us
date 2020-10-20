@@ -2,10 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-#fb_link{
-  color: #FFFFFF;
-}
-
 #intro{
   text-align: center;
 }
@@ -65,5 +61,13 @@
 }
 
 .inner {
-  width: 32%;
+  width: 48%;
+}
+
+.inner-pic {
+  width: 25%;
+}
+
+.inner-info {
+  width: 75%;
 }
