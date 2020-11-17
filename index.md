@@ -28,6 +28,7 @@ physicians, which means you don't need a referral to receive chiropractic care.
 - Activator Methods
 - Thompson Technique
 - Logan Basic
+
 ## Therapies
 - Cold Laser Therapy
 - E-Stim
