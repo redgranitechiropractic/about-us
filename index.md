@@ -22,6 +22,19 @@ of a medical doctor. After earning a Bachelor's degree with a strong emphasis of
 chiropractors attend a four year chiropractic college. Chiropractors are primary care
 physicians, which means you don't need a referral to receive chiropractic care.
 
+# Techniques and Tehrapies as Redgranite Family Chiropractic
+## Techniques
+- Diversified
+- Activator Methods
+- Thompson Technique
+- Logan Basic
+## Therapies
+- Cold Laser Therapy
+- E-Stim
+- Ultrasound
+- Ice
+- Heat
+
 # Nutritional Counseling
 Discuss your nutritional goals with us and we'll give you the guidance you
 need to improve your health through changes in your diet and/or vitamin or
