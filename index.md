@@ -2,7 +2,7 @@
 We are a small, family owned business. Your health, as well as your family's health, is very important to
 us. Living a happier, healthier, pain-free life is what you deserve. If you are
 ready and willing to be helped, whether that involves pain reduction or improving
-your overall health and wellbeing, we are here for you. We look forward to serving you in any way we can.
+your overall health and well-being, we are here for you. We look forward to serving you in any way we can.
 
 # What Is Chiropractic Care?
 Chiropractic care is the practice of using spinal alignment to alleviate a
