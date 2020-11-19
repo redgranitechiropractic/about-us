@@ -29,11 +29,16 @@ physicians, which means you don't need a referral to receive chiropractic care.
 - Logan Basic
 
 # Therapies Offered
+- Massage
 - Cold Laser Therapy
 - E-Stim
 - Ultrasound
 - Ice
 - Heat
+
+# Services Offered
+- Foot Levelers Scanner for Custom Orthotics
+- Nutritional Support
 
 # Nutritional Counseling
 Discuss your nutritional goals with us and we'll give you the guidance you
