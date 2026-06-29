@@ -39,6 +39,10 @@ physicians, which means you don't need a referral to receive chiropractic care.
 # Services Offered
 - Foot Levelers Scanner for Custom Orthotics
 - Nutritional Support
+- Massage Therapy (Wednesdays)
+- Reiki (Monday & Wednesdays)
+- Herbologist (Monday & Wednesdays)
+- Chair Yoga (Thursday mornings)
 
 # Nutritional Counseling
 Discuss your nutritional goals with us and we'll give you the guidance you
