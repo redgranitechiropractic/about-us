@@ -42,7 +42,7 @@ physicians, which means you don't need a referral to receive chiropractic care.
 - Massage Therapy (Wednesdays)
 - Reiki (Monday & Wednesdays)
 - Herbologist (Monday & Wednesdays)
-- Chair Yoga (Thursday mornings)
+- Chair Yoga (Thursday mornings @ 11am)
 
 # Nutritional Counseling
 Discuss your nutritional goals with us and we'll give you the guidance you
