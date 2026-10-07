@@ -29,7 +29,6 @@ physicians, which means you don't need a referral to receive chiropractic care.
 - Logan Basic
 
 # Therapies Offered
-- Massage
 - Cold Laser Therapy
 - E-Stim
 - Ultrasound
@@ -39,7 +38,6 @@ physicians, which means you don't need a referral to receive chiropractic care.
 # Services Offered
 - Foot Levelers Scanner for Custom Orthotics
 - Nutritional Support
-- Massage Therapy (Wednesdays)
 - Reiki (Monday & Wednesdays)
 - Herbologist (Monday & Wednesdays)
 - Chair Yoga (Thursday mornings @ 11am)
